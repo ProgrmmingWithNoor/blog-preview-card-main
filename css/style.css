@@ -71,6 +71,5 @@ body {
 @media (max-width: 470px) {
   .blog_card {
     width: 250px;
-    background: #000;
   }
 }
